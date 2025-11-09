@@ -3,3 +3,4 @@ He creado una carpeta desde Visual Studio Code con el nombre de Data y un archiv
 
 Después hemos creado cada uno una rama de la rama readme_changes para escribir qué ha hecho cada uno. Mi rama se llama Readme_BeaEsca y dentro de ella, desde VSC, he creado un documento para ir anotándolo todo.
 Listo
+Listo
