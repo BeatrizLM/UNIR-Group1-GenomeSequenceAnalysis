@@ -4,5 +4,5 @@ In order to check the similarities between the DNA secuence obtained and to iden
 
 To do so, tow main external databases are used:
 
-1. **Blastn**: this database allows us to compare secuence fragments with other organisms, indicating the similarity percentage. URL: https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastn&BLAST_SPEC=GeoBlast&PAGE_TYPE=BlastSearch
-2. **Dfam**: this database allows us to compare secuence fragments with an organism of our choice, giving us a more detailed similarity check. URL: https://www.dfam.org/search/sequence
+1. **Blastn**: this database allows us to compare secuence fragments with other organisms, indicating the similarity percentage.
+2. **Dfam**: this database allows us to compare secuence fragments with an organism of our choice, giving us a more detailed similarity check.
