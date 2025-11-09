@@ -1,7 +1,0 @@
-Se crea el branch pretratment.
-Se realizan varias operaciones dentro de la rama data-analysis: 
-      Se crea un script en R para el análisis de datos 
-      Se descarga archivo .csv con tabla de valores p de las muestras recogidas
-      se añade fichero .txt con instrucciones de la comapración de las secuencias deseadas
-      Posteriormente se hace un commit and push.
-      Finalmente, se realiza un merge con resultados satifactorio, sin ningún conflicto encontrado.
