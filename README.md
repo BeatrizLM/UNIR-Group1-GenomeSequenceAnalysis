@@ -10,7 +10,6 @@ versiones
 ---
 
 ## Índice
-- [Instalación](#-instalacion)
 - [Descripción](#-descripcion)
 - [Propósito](#-proposito)
 - [Flujo de trabajo](#-flujo-de-trabajo)
@@ -20,8 +19,9 @@ versiones
 - [Licencia](#-licencia)
 
 
-
 ## Instalación
+
+1. Clona este repositorio:
    ```bash
    git clone https://github.com/usuario/nombre-del-proyecto.git
 
