@@ -8,6 +8,7 @@
 
 ---
 
+
 ## Índice
 - [Descripción](#-descripcion)
   > Información general sobre el contenido y el contexto del proyecto.
