@@ -18,10 +18,24 @@
 ---
 
 ## Descripción
-
+ 
 ### Propósito y estructura
 
+El proyecto genome sequence analysis pretende comparar los resultados de una secuenciación con secuencias modelo. Se compone de diferentes partes:
+
+- En primer lugar, se han obtenido los genomas crudos tras la secuenciación. Dichas secuencias se encuentran almacenadas en la carpeta *sequences*.
+- A continuación, tras limpiar las secuencias obtenidas, se ha realizado un análisis comparativo entre ellas, contenido en *validation methods*.
+- Tras la comparación entre ellas, se ha obtenido una secuencia final, ubicada en *data-results*.
+- Finalmente, por medio de diferentes herramientas de comparación genética, se ha realizado el alineamiento de nuestra secuencia para conocer la similitud con otros organismos.
+
 ### Objetivos
+
+Teniendo en cuenta el apartado anterior, se pueden diferenciar múltiples objetivos:
+
+1) Creación de un repositorio github para facilitar el trabajo del grupo.
+2) Manipulación de secuencias genéticas.
+3) Uso de herramientas bioinformáticas que permiten tanto el procesado, como el alineamiento y la comparación de las secuencias.
+4) Elaboración de una memoria que refleje todo el proceso.
 
 ### Instrucciones de uso
 
