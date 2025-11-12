@@ -18,24 +18,25 @@
 ---
 
 ## Descripción
- 
+
 ### Propósito y estructura
 
-El proyecto genome sequence analysis pretende comparar los resultados de una secuenciación con secuencias modelo. Se compone de diferentes partes:
+El proyecto genome sequence analysis pretende comparar los resultados de una secuenciación con secuencias modelo. Se ha estructurado según los diferentes pasos de los que se compone un análisis genético:
 
 - En primer lugar, se han obtenido los genomas crudos tras la secuenciación. Dichas secuencias se encuentran almacenadas en la carpeta *sequences*.
 - A continuación, tras limpiar las secuencias obtenidas, se ha realizado un análisis comparativo entre ellas, contenido en *validation methods*.
-- Tras la comparación entre ellas, se ha obtenido una secuencia final, ubicada en *data-results*.
-- Finalmente, por medio de diferentes herramientas de comparación genética, se ha realizado el alineamiento de nuestra secuencia para conocer la similitud con otros organismos.
+- Tras la comparación, se ha obtenido una secuencia final, ubicada en *data-results*.
+- Finalmente, por medio de diferentes herramientas de comparación genética, se ha realizado el alineamiento de nuestra secuencia para conocer la similitud con otros organismos. Los resultados de este análisis se han recogido en la carpeta *comparative-analysis*.
 
 ### Objetivos
 
 Teniendo en cuenta el apartado anterior, se pueden diferenciar múltiples objetivos:
 
-1) Creación de un repositorio github para facilitar el trabajo del grupo.
-2) Manipulación de secuencias genéticas.
-3) Uso de herramientas bioinformáticas que permiten tanto el procesado, como el alineamiento y la comparación de las secuencias.
-4) Elaboración de una memoria que refleje todo el proceso.
+1. Creación de un repositorio github para facilitar el trabajo del grupo.
+2. Manipulación de secuencias genéticas.
+3. Uso de herramientas bioinformáticas que permiten tanto el procesado, como el alineamiento y la comparación de las secuencias.
+4. Interpretación de los resultados obtenidos tras la comparación. 
+5. Elaboración de una memoria que refleje todo el proceso.
 
 ### Instrucciones de uso
 
@@ -44,8 +45,9 @@ Teniendo en cuenta el apartado anterior, se pueden diferenciar múltiples objeti
 git clone https://github.com/BeatrizLM/UNIR-Group1-GenomeSequenceAnalysis.git
 
 ```
-2. Paso 2 imaginario
-3. Paso 3 imaginario
+2. Crear una rama sobre la que trabajar. Cada integrante del equipo trabaja una parte del proyecto en una rama diferente.
+3. Todos los cambios realizados en local se integran al proyecto mediante *commit* y *push*.
+4. Para fusionar todas las ramas y unificar el proyecto, hacer pull request de la rama en la que se ha trabajado hacia main. El director del proyecto supervisa los cambios que esto supone para aprobar o denegar la petición.
 
 ## Flujo de trabajo para la actividad
 
